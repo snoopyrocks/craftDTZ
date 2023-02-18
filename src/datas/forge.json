@@ -1,0 +1,444 @@
+{
+    "steel_wire": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "fonte",
+        "Level": 5,
+        "Ingredients": {
+            "steel_ingot": 1
+        },
+        "Time": 10,
+        "isGun": false,
+        "xp": 1,
+        "Amount": 1,
+        "SuccessRate": 100
+    },
+    "no1": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 1,
+        "Ingredients": {
+            "iron_ingot": 1,
+            "moule_no1": 1
+        },
+        "Time": 20,
+        "isGun": false,
+        "xp": 2,
+        "Amount": 3,
+        "SuccessRate": 75
+    },
+    "steel_wire_re": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "fonte",
+        "Level": 5,
+        "Ingredients": {
+            "steel_wire": 1,
+            "oil": 1
+        },
+        "Time": 10,
+        "isGun": false,
+        "xp": 1,
+        "Amount": 1,
+        "SuccessRate": 100
+    },
+    "anvil": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 8,
+        "Ingredients": {
+            "steel_ingot": 3
+        },
+        "Time": 15,
+        "isGun": false,
+        "xp": 12,
+        "Amount": 1,
+        "SuccessRate": 100
+    },
+    "short_knife_blade": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 8,
+        "Ingredients": {
+            "steel_ingot": 1,
+            "anvil": 1,
+            "forge_hammer": 1
+        },
+        "Time": 15,
+        "isGun": false,
+        "xp": 14,
+        "Amount": 1,
+        "SuccessRate": 100
+    },
+    "steel_bar_re": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "fonte",
+        "Level": 11,
+        "Ingredients": {
+            "oil": 2,
+            "steel_bar": 1
+        },
+        "Time": 25,
+        "isGun": false,
+        "xp": 14,
+        "Amount": 1,
+        "SuccessRate": 100
+    },
+    "iron_plate_re": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 11,
+        "Ingredients": {
+            "oil": 2,
+            "iron_plate": 1
+        },
+        "Time": 15,
+        "isGun": false,
+        "xp": 3,
+        "Amount": 2,
+        "SuccessRate": 100
+    },
+    "steel_ingot": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 7,
+        "Ingredients": {
+            "iron_ingot": 1,
+            "coal_ore": 2
+        },
+        "Time": 15,
+        "isGun": false,
+        "xp": 4,
+        "Amount": 1,
+        "SuccessRate": 100
+    },
+    "iron_bar_re": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 8,
+        "Ingredients": {
+            "iron_bar": 4,
+            "oil": 2
+        },
+        "Time": 15,
+        "isGun": false,
+        "xp": 3,
+        "Amount": 2,
+        "SuccessRate": 100
+    },
+    "iron_bar": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 4,
+        "Ingredients": {
+            "iron_ingot": 4
+        },
+        "Time": 10,
+        "isGun": false,
+        "xp": 2,
+        "Amount": 2,
+        "SuccessRate": 100
+    },
+    "copper_wire": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "fonte",
+        "Level": 5,
+        "Ingredients": {
+            "copper_ingot": 1
+        },
+        "Time": 10,
+        "isGun": false,
+        "xp": 1,
+        "Amount": 1,
+        "SuccessRate": 100
+    },
+    "glass": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 5,
+        "Ingredients": {
+            "water_bottle": 1,
+            "sand": 1
+        },
+        "Time": 30,
+        "isGun": false,
+        "xp": 6,
+        "Amount": 2,
+        "SuccessRate": 100
+    },
+    "towhook": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 10,
+        "Ingredients": {
+            "moule_towhook": 1,
+            "iron_ingot": 2
+        },
+        "Time": 25,
+        "isGun": false,
+        "xp": 11,
+        "Amount": 1,
+        "SuccessRate": 70
+    },
+    "copper_plate": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 7,
+        "Ingredients": {
+            "copper_ingot": 4
+        },
+        "Time": 15,
+        "isGun": false,
+        "xp": 7,
+        "Amount": 2,
+        "SuccessRate": 100
+    },
+    "katana_blade": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 11,
+        "Ingredients": {
+            "steel_ingot": 1,
+            "anvil": 1,
+            "forge_hammer": 1
+        },
+        "Time": 15,
+        "isGun": false,
+        "xp": 30,
+        "Amount": 1,
+        "SuccessRate": 100
+    },
+    "copper_ingot": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 3,
+        "Ingredients": {
+            "copper_ore": 3
+        },
+        "Time": 15,
+        "isGun": false,
+        "xp": 1,
+        "Amount": 1,
+        "SuccessRate": 100
+    },
+    "iron_ingot": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 0,
+        "Ingredients": {
+            "iron_ore": 3
+        },
+        "Time": 15,
+        "isGun": false,
+        "xp": 2,
+        "Amount": 1,
+        "SuccessRate": 100
+    },
+    "no3": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 3,
+        "Ingredients": {
+            "moule_no3": 1,
+            "iron_ingot": 1
+        },
+        "Time": 20,
+        "isGun": false,
+        "xp": 4,
+        "Amount": 3,
+        "SuccessRate": 75
+    },
+    "butcher_blade": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 9,
+        "Ingredients": {
+            "steel_ingot": 1,
+            "anvil": 1,
+            "forge_hammer": 1
+        },
+        "Time": 15,
+        "isGun": false,
+        "xp": 21,
+        "Amount": 1,
+        "SuccessRate": 100
+    },
+    "steel_bar": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "fonte",
+        "Level": 9,
+        "Ingredients": {
+            "steel_ingot": 4
+        },
+        "Time": 25,
+        "isGun": false,
+        "xp": 8,
+        "Amount": 2,
+        "SuccessRate": 100
+    },
+    "no2": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 2,
+        "Ingredients": {
+            "moule_no2": 1,
+            "iron_ingot": 1
+        },
+        "Time": 20,
+        "isGun": false,
+        "xp": 3,
+        "Amount": 3,
+        "SuccessRate": 75
+    },
+    "glass_jar": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "fonte",
+        "Level": 8,
+        "Ingredients": {
+            "cloth": 1,
+            "glass": 2,
+            "fil_tresser": 1
+        },
+        "Time": 30,
+        "isGun": false,
+        "xp": 1,
+        "Amount": 1,
+        "SuccessRate": 65
+    },
+    "copper_wire_re": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "fonte",
+        "Level": 5,
+        "Ingredients": {
+            "copper_wire": 1,
+            "oil": 1
+        },
+        "Time": 10,
+        "isGun": false,
+        "xp": 1,
+        "Amount": 1,
+        "SuccessRate": 100
+    },
+    "iron_plate": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 7,
+        "Ingredients": {
+            "iron_ingot": 4
+        },
+        "Time": 10,
+        "isGun": false,
+        "xp": 2,
+        "Amount": 2,
+        "SuccessRate": 100
+    },
+    "no10": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 8,
+        "Ingredients": {
+            "iron_ingot": 1,
+            "moule_no10": 1
+        },
+        "Time": 25,
+        "isGun": false,
+        "xp": 9,
+        "Amount": 2,
+        "SuccessRate": 70
+    },
+    "no6": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "material",
+        "Level": 6,
+        "Ingredients": {
+            "moule_no6": 1,
+            "iron_ingot": 1
+        },
+        "Time": 20,
+        "isGun": false,
+        "xp": 5,
+        "Amount": 2,
+        "SuccessRate": 75
+    },
+    "metal_wire": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "fonte",
+        "Level": 2,
+        "Ingredients": {
+            "iron_ingot": 1
+        },
+        "Time": 10,
+        "isGun": false,
+        "xp": 1,
+        "Amount": 1,
+        "SuccessRate": 100
+    },
+    "metal_wire_re": {
+        "Jobs": [],
+        "requireBlueprint": false,
+        "JobGrades": [],
+        "Category": "fonte",
+        "Level": 4,
+        "Ingredients": {
+            "metal_wire": 1,
+            "oil": 1
+        },
+        "Time": 10,
+        "isGun": false,
+        "xp": 1,
+        "Amount": 1,
+        "SuccessRate": 100
+    }
+}

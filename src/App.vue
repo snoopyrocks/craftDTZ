@@ -7,6 +7,7 @@ const navs = {
   fishing: "Pêche / Chasse",
   cooking: "Cuisine",
   repair: "Réparation véhicule",
+  forge: "Forge",
 }
 export default {
   components: {
