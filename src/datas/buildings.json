@@ -1,0 +1,1449 @@
+{
+    "beehive": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 45,
+        "xp": 4,
+        "Ingredients": {
+            "tool_kit": 1,
+            "wood_plank": 4,
+            "nails_box": 6,
+            "wood_treated": 8,
+            "grillage": 2
+        },
+        "Amount": 1
+    },
+    "big_safe": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 12,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 40,
+        "xp": 20,
+        "Ingredients": {
+            "copper_ingot": 8,
+            "iron_plate_re": 6,
+            "cement": 18,
+            "iron_bar_re": 4
+        },
+        "Amount": 1
+    },
+    "fncsec_03b": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "brick": 2,
+            "grillage": 2,
+            "iron_bar": 4
+        },
+        "Amount": 1
+    },
+    "grillage": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "material",
+        "isGun": false,
+        "Time": 5,
+        "xp": 1,
+        "Ingredients": {
+            "iron_plate": 1
+        },
+        "Amount": 4
+    },
+    "fnclink_09frame": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 2,
+        "Ingredients": {
+            "barbeler": 2,
+            "grillage": 3,
+            "iron_bar": 2
+        },
+        "Amount": 1
+    },
+    "prop_battle_tent_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 1,
+        "Ingredients": {
+            "bache": 1,
+            "tape": 2,
+            "leather_deer_bad": 2
+        },
+        "Amount": 1
+    },
+    "prologue_pillar_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 6,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 8,
+        "Ingredients": {
+            "cement": 6,
+            "iron_plate_re": 2
+        },
+        "Amount": 1
+    },
+    "bbq_3": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 11,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 40,
+        "xp": 10,
+        "Ingredients": {
+            "iron_bar": 4,
+            "cement": 3,
+            "brick": 6
+        },
+        "Amount": 1
+    },
+    "shuttering02": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 4,
+        "Ingredients": {
+            "wood_plank": 4,
+            "iron_ingot": 4,
+            "iron_bar_re": 5
+        },
+        "Amount": 1
+    },
+    "fncply_01gate": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 2,
+        "Ingredients": {
+            "wood_treated": 3,
+            "wood_plank": 2
+        },
+        "Amount": 1
+    },
+    "fnclink_05b": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 2,
+        "Ingredients": {
+            "iron_ingot": 2,
+            "barbeler": 2,
+            "grillage": 4,
+            "iron_bar": 2
+        },
+        "Amount": 1
+    },
+    "tunnel_01a": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 12,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 12,
+        "Ingredients": {
+            "iron_plate_re": 10,
+            "cement": 6,
+            "iron_bar_re": 6
+        },
+        "Amount": 1
+    },
+    "fnclink_02a": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 2,
+        "Ingredients": {
+            "grillage": 2,
+            "iron_bar": 4
+        },
+        "Amount": 1
+    },
+    "shuttering03": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 4,
+        "Ingredients": {
+            "wood_plank": 8,
+            "iron_ingot": 8,
+            "iron_bar_re": 12
+        },
+        "Amount": 1
+    },
+    "conslift_steps": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "wood_plank": 6
+        },
+        "Amount": 1
+    },
+    "splint": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "medical",
+        "isGun": false,
+        "Time": 8,
+        "xp": 4,
+        "Ingredients": {
+            "cloth": 2,
+            "wood_plank": 2
+        },
+        "Amount": 1
+    },
+    "fncres_09gate": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 1,
+        "Ingredients": {
+            "wood_treated": 8
+        },
+        "Amount": 1
+    },
+    "tablesaw_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 40,
+        "xp": 7,
+        "Ingredients": {
+            "iron_plate": 3,
+            "tool_kit": 1,
+            "iron_bar_re": 6
+        },
+        "Amount": 1
+    },
+    "metal_plates01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 1,
+        "Ingredients": {
+            "iron_plate": 5,
+            "iron_ingot": 1
+        },
+        "Amount": 1
+    },
+    "mp_ramp_02": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 5,
+        "xp": 2,
+        "Ingredients": {
+            "rubber": 2,
+            "wood_plank": 4
+        },
+        "Amount": 1
+    },
+    "prop_scrim_02": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "bache": 1,
+            "iron_bar": 4
+        },
+        "Amount": 1
+    },
+    "black_green_safe_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 6,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 6,
+        "Ingredients": {
+            "iron_plate": 4,
+            "copper_ingot": 4,
+            "cement": 6,
+            "iron_bar": 2
+        },
+        "Amount": 1
+    },
+    "table_03": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 25,
+        "xp": 4,
+        "Ingredients": {
+            "wood_treated": 4,
+            "wood_plank": 1,
+            "glass": 1
+        },
+        "Amount": 1
+    },
+    "water_ramp_02": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "wood_treated": 4,
+            "baril": 2
+        },
+        "Amount": 1
+    },
+    "shuttering04": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 4,
+        "Ingredients": {
+            "wood_plank": 6,
+            "iron_ingot": 6,
+            "iron_bar_re": 8
+        },
+        "Amount": 1
+    },
+    "small_safe": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 3,
+        "Ingredients": {
+            "iron_plate": 2,
+            "iron_bar": 2,
+            "rubber": 3
+        },
+        "Amount": 1
+    },
+    "byard_steps_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 2,
+        "Ingredients": {
+            "wood_treated": 5,
+            "iron_bar": 4
+        },
+        "Amount": 1
+    },
+    "fertilizer": {
+        "SuccessRate": 70,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "utility",
+        "isGun": false,
+        "Time": 15,
+        "xp": 5,
+        "Ingredients": {
+            "brain_chunk": 2,
+            "moldy_bread": 3,
+            "water_bottle": 1
+        },
+        "Amount": 1
+    },
+    "fnclink_02gate4": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 2,
+        "Ingredients": {
+            "grillage": 2,
+            "iron_bar": 3
+        },
+        "Amount": 1
+    },
+    "letter_box": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 5,
+        "xp": 1,
+        "Ingredients": {
+            "wood_treated": 1,
+            "iron_plate": 1
+        },
+        "Amount": 1
+    },
+    "gazebo_02": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 1,
+        "Ingredients": {
+            "iron_bar": 4,
+            "bache": 1
+        },
+        "Amount": 4
+    },
+    "const_fence01b": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 4,
+        "Ingredients": {
+            "wood": 4,
+            "wood_plank": 3
+        },
+        "Amount": 1
+    },
+    "portasteps_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "wood_plank": 4
+        },
+        "Amount": 1
+    },
+    "portasteps_02": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 15,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 13,
+        "Ingredients": {
+            "iron_plate": 6,
+            "iron_bar_re": 8
+        },
+        "Amount": 1
+    },
+    "fncsec_03d": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "bache": 1,
+            "brick": 2,
+            "iron_bar": 4
+        },
+        "Amount": 1
+    },
+    "air_woodsteps": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 2,
+        "Ingredients": {
+            "wood_treated": 3,
+            "rubber": 2
+        },
+        "Amount": 1
+    },
+    "spray_remover": {
+        "SuccessRate": 75,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "utility",
+        "isGun": false,
+        "Time": 23,
+        "xp": 1,
+        "Ingredients": {
+            "fuel": 2,
+            "cloth": 3
+        },
+        "Amount": 1
+    },
+    "stick": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "utility",
+        "isGun": false,
+        "Time": 15,
+        "xp": 1,
+        "Ingredients": {
+            "wood": 1
+        },
+        "Amount": 4
+    },
+    "tool_bench02": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 25,
+        "xp": 11,
+        "Ingredients": {
+            "tool_kit": 1,
+            "wood_plank": 1,
+            "nails_box": 1,
+            "wood": 4
+        },
+        "Amount": 1
+    },
+    "port_xr_stairs_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 12,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 11,
+        "Ingredients": {
+            "iron_plate": 4,
+            "iron_bar_re": 2,
+            "iron_bar": 4
+        },
+        "Amount": 1
+    },
+    "base_door_02": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 10,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 14,
+        "Ingredients": {
+            "iron_plate_re": 3,
+            "iron_bar_re": 2
+        },
+        "Amount": 1
+    },
+    "fnclink_03gate3": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 2,
+        "Ingredients": {
+            "barbeler": 1,
+            "iron_bar": 2
+        },
+        "Amount": 1
+    },
+    "fnclink_02gate3": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 2,
+        "Ingredients": {
+            "grillage": 2,
+            "iron_bar": 3
+        },
+        "Amount": 1
+    },
+    "fnclink_02gate6": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 2,
+        "Ingredients": {
+            "grillage": 1,
+            "iron_bar": 2
+        },
+        "Amount": 1
+    },
+    "sandblock_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "grillage": 1,
+            "cement": 1,
+            "sand": 2
+        },
+        "Amount": 1
+    },
+    "rubber": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "material",
+        "isGun": false,
+        "Time": 10,
+        "xp": 4,
+        "Ingredients": {
+            "oil": 1,
+            "latex_leaf": 2
+        },
+        "Amount": 1
+    },
+    "base_doorframe": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 10,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 14,
+        "Ingredients": {
+            "iron_plate_re": 3
+        },
+        "Amount": 1
+    },
+    "bandage": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "medical",
+        "isGun": false,
+        "Time": 6,
+        "xp": 2,
+        "Ingredients": {
+            "cloth": 1
+        },
+        "Amount": 2
+    },
+    "shuttering01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 4,
+        "Ingredients": {
+            "wood_plank": 2,
+            "iron_ingot": 2,
+            "iron_bar_re": 3
+        },
+        "Amount": 1
+    },
+    "bbq_2": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 30,
+        "xp": 4,
+        "Ingredients": {
+            "iron_plate": 1,
+            "iron_bar": 4
+        },
+        "Amount": 1
+    },
+    "roller_static": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 3,
+        "Ingredients": {
+            "iron_plate": 7
+        },
+        "Amount": 1
+    },
+    "tirroir": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 40,
+        "xp": 4,
+        "Ingredients": {
+            "wood_treated": 2,
+            "wood_plank": 6
+        },
+        "Amount": 1
+    },
+    "fnclog_01a": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 4,
+        "Ingredients": {
+            "wood": 6
+        },
+        "Amount": 1
+    },
+    "latex": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "material",
+        "isGun": false,
+        "Time": 8,
+        "xp": 6,
+        "Ingredients": {
+            "latex_leaf": 1
+        },
+        "Amount": 1
+    },
+    "fnccorgm_06b": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 1,
+        "Ingredients": {
+            "iron_plate": 4,
+            "iron_ingot": 2,
+            "iron_bar": 2
+        },
+        "Amount": 1
+    },
+    "beach_fire": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 8,
+        "Ingredients": {
+            "wood": 3
+        },
+        "Amount": 1
+    },
+    "weapontable": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 9,
+        "Ingredients": {
+            "tool_kit": 1,
+            "wood_plank": 4,
+            "nails_box": 2,
+            "oil": 1,
+            "tape": 1
+        },
+        "Amount": 1
+    },
+    "table_02": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 5,
+        "xp": 1,
+        "Ingredients": {
+            "wood_treated": 2,
+            "wood_plank": 1
+        },
+        "Amount": 1
+    },
+    "tool_draw_01c": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 10,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 40,
+        "xp": 16,
+        "Ingredients": {
+            "rubber": 3,
+            "iron_plate": 15,
+            "iron_plate_re": 2,
+            "copper_ingot": 2,
+            "iron_bar": 6
+        },
+        "Amount": 1
+    },
+    "cementmixer": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 7,
+        "Ingredients": {
+            "iron_plate": 4,
+            "tool_kit": 1,
+            "iron_bar": 8
+        },
+        "Amount": 1
+    },
+    "barrier_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "cement": 5,
+            "iron_bar": 4
+        },
+        "Amount": 1
+    },
+    "toolchest_05": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 40,
+        "xp": 11,
+        "Ingredients": {
+            "iron_plate": 10,
+            "copper_ingot": 2,
+            "iron_bar": 4,
+            "rubber": 1
+        },
+        "Amount": 1
+    },
+    "barier_conc_01b": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 1,
+        "Ingredients": {
+            "wood_plank": 4,
+            "cement": 5,
+            "iron_bar": 2
+        },
+        "Amount": 1
+    },
+    "sandblock_05": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 1,
+        "Ingredients": {
+            "grillage": 2,
+            "cement": 5,
+            "sand": 4
+        },
+        "Amount": 1
+    },
+    "ladder_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 2,
+        "Ingredients": {
+            "iron_bar": 4,
+            "iron_bar_re": 2
+        },
+        "Amount": 1
+    },
+    "table_08_chr": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "wood_treated": 2
+        },
+        "Amount": 1
+    },
+    "fruitstand_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 1,
+        "Ingredients": {
+            "iron_bar": 6,
+            "bache": 1
+        },
+        "Amount": 4
+    },
+    "campbed_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 3,
+        "Ingredients": {
+            "iron_bar": 4,
+            "bache": 1
+        },
+        "Amount": 1
+    },
+    "sandblock_02": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 1,
+        "Ingredients": {
+            "grillage": 2,
+            "cement": 3,
+            "sand": 4
+        },
+        "Amount": 1
+    },
+    "rolling_paper": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "utility",
+        "isGun": false,
+        "Time": 4,
+        "xp": 2,
+        "Ingredients": {
+            "paper": 1,
+            "glue": 1
+        },
+        "Amount": 1
+    },
+    "sandblock_04": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 1,
+        "Ingredients": {
+            "grillage": 2,
+            "cement": 5,
+            "sand": 4
+        },
+        "Amount": 1
+    },
+    "hobo_stove_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 8,
+        "Ingredients": {
+            "tool_kit": 1,
+            "beach_fire": 1,
+            "nails_box": 1,
+            "baril": 1
+        },
+        "Amount": 1
+    },
+    "gazebo_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 1,
+        "Ingredients": {
+            "iron_bar": 4,
+            "bache": 1
+        },
+        "Amount": 4
+    },
+    "steps_big_01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 10,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 4,
+        "Ingredients": {
+            "iron_plate": 4,
+            "iron_bar": 2,
+            "iron_bar_re": 4
+        },
+        "Amount": 1
+    },
+    "cocaine": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "utility",
+        "isGun": false,
+        "Time": 4,
+        "xp": 3,
+        "Ingredients": {
+            "hcl": 1,
+            "coca": 3
+        },
+        "Amount": 1
+    },
+    "barier_conc_01a": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "cement": 4,
+            "iron_bar": 2
+        },
+        "Amount": 1
+    },
+    "weed_lemonhaze": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "utility",
+        "isGun": false,
+        "Time": 4,
+        "xp": 2,
+        "Ingredients": {
+            "weed_buds": 2,
+            "rolling_paper": 1
+        },
+        "Amount": 1
+    },
+    "cigarette": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "utility",
+        "isGun": false,
+        "Time": 4,
+        "xp": 1,
+        "Ingredients": {
+            "tabac": 3,
+            "rolling_paper": 1
+        },
+        "Amount": 1
+    },
+    "barbeler": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "material",
+        "isGun": false,
+        "Time": 5,
+        "xp": 1,
+        "Ingredients": {
+            "iron_plate": 1
+        },
+        "Amount": 4
+    },
+    "mechanictable": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 20,
+        "xp": 6,
+        "Ingredients": {
+            "tool_kit": 1,
+            "nails_box": 2,
+            "iron_plate": 2,
+            "iron_plate_re": 1,
+            "oil": 1
+        },
+        "Amount": 1
+    },
+    "frame_moule": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "utility",
+        "isGun": false,
+        "Time": 15,
+        "xp": 2,
+        "Ingredients": {
+            "nails_box": 1,
+            "wood_plank": 4
+        },
+        "Amount": 1
+    },
+    "table_fish": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 40,
+        "xp": 5,
+        "Ingredients": {
+            "tool_kit": 1,
+            "wood_plank": 4,
+            "nails_box": 2
+        },
+        "Amount": 1
+    },
+    "container_03mb": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 30,
+        "xp": 3,
+        "Ingredients": {
+            "iron_plate": 8,
+            "iron_ingot": 5,
+            "iron_bar_re": 6
+        },
+        "Amount": 1
+    },
+    "fncres_09a": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 25,
+        "xp": 1,
+        "Ingredients": {
+            "wood_treated": 5
+        },
+        "Amount": 1
+    },
+    "engine_hoist_02a": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "tool_kit": 1,
+            "oil": 1,
+            "iron_bar_re": 4
+        },
+        "Amount": 4
+    },
+    "fnccorgm_02b": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 1,
+        "Ingredients": {
+            "iron_plate": 5,
+            "iron_ingot": 2,
+            "iron_bar": 2
+        },
+        "Amount": 1
+    },
+    "sandblock_03": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 15,
+        "xp": 1,
+        "Ingredients": {
+            "grillage": 2,
+            "cement": 9,
+            "sand": 4
+        },
+        "Amount": 1
+    },
+    "fnccorgm_05b": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "building",
+        "isGun": false,
+        "Time": 25,
+        "xp": 1,
+        "Ingredients": {
+            "iron_plate": 4,
+            "barbeler": 2,
+            "iron_ingot": 2
+        },
+        "Amount": 1
+    }
+}

@@ -1,0 +1,16 @@
+#app{
+    display: flex;
+    flex-direction: column;
+}
+.content{
+    flex: 1;
+    height: 89vh;
+    overflow: hidden;
+}
+.list-group-item{
+    background: transparent;
+    color: whitesmoke;
+}
+.list-group-item.active{
+    background: #1b1445;
+}

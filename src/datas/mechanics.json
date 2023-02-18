@@ -1,0 +1,833 @@
+{
+    "pneu_hiver": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "maint",
+        "isGun": false,
+        "Time": 35,
+        "xp": 8,
+        "Ingredients": {
+            "wheel_mags": 4,
+            "rubber": 8
+        },
+        "Amount": 1
+    },
+    "alternateur": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "carpiece",
+        "isGun": false,
+        "Time": 15,
+        "xp": 6,
+        "Ingredients": {
+            "iron_plate": 3,
+            "copper_plate": 8
+        },
+        "Amount": 1
+    },
+    "race_transmition_4wd": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 10,
+        "requireBlueprint": false,
+        "Category": "transmission",
+        "isGun": false,
+        "Time": 35,
+        "xp": 4,
+        "Ingredients": {
+            "seal": 4,
+            "gear": 4,
+            "stock_oil": 2,
+            "stock_transmition": 1
+        },
+        "Amount": 1
+    },
+    "2jzengine": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 12,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 23,
+        "Ingredients": {
+            "tete_de_moteur": 1,
+            "boulon_kit": 3,
+            "courroie": 1,
+            "batterie": 1,
+            "bloc_motor_v6": 1,
+            "alternateur": 1,
+            "engine_computer": 1,
+            "piston": 6
+        },
+        "Amount": 1
+    },
+    "stock_engine": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 10,
+        "Ingredients": {
+            "bloc_motor": 1,
+            "boulon_kit": 2,
+            "batterie": 1,
+            "piston": 4,
+            "alternateur": 1,
+            "courroie": 1,
+            "tete_de_moteur": 1
+        },
+        "Amount": 1
+    },
+    "bloc_motor_v6": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "carpiece",
+        "isGun": false,
+        "Time": 15,
+        "xp": 8,
+        "Ingredients": {
+            "iron_ingot": 30
+        },
+        "Amount": 1
+    },
+    "bloc_motor_v4": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "carpiece",
+        "isGun": false,
+        "Time": 15,
+        "xp": 6,
+        "Ingredients": {
+            "iron_ingot": 25
+        },
+        "Amount": 1
+    },
+    "race_suspension": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 12,
+        "requireBlueprint": false,
+        "Category": "maint",
+        "isGun": false,
+        "Time": 35,
+        "xp": 9,
+        "Ingredients": {
+            "iron_plate": 16,
+            "rubber": 12
+        },
+        "Amount": 1
+    },
+    "p60b40": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 14,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 76,
+        "Ingredients": {
+            "tete_de_moteur": 2,
+            "boulon_kit": 3,
+            "courroie": 1,
+            "bloc_motor_v8": 1,
+            "piston": 8,
+            "alternateur": 1,
+            "engine_computer": 1,
+            "batterie": 1
+        },
+        "Amount": 1
+    },
+    "oil_bad": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "maint",
+        "isGun": false,
+        "Time": 15,
+        "xp": 5,
+        "Ingredients": {
+            "oil": 3
+        },
+        "Amount": 1
+    },
+    "rotary7": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 32,
+        "Ingredients": {
+            "bloc_motor": 1,
+            "piston_rotatif": 5,
+            "boulon_kit": 3,
+            "batterie": 1,
+            "courroie": 1,
+            "alternateur": 1,
+            "engine_computer": 1,
+            "tete_de_moteur": 1
+        },
+        "Amount": 1
+    },
+    "frein_de_qualiter": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "maint",
+        "isGun": false,
+        "Time": 15,
+        "xp": 9,
+        "Ingredients": {
+            "plaquette_de_frein_deluxe": 4,
+            "brake_disc": 4,
+            "etrier": 1,
+            "piston_de_frein": 2,
+            "boulon_kit": 2
+        },
+        "Amount": 1
+    },
+    "race_brakes": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 14,
+        "requireBlueprint": false,
+        "Category": "maint",
+        "isGun": false,
+        "Time": 15,
+        "xp": 13,
+        "Ingredients": {
+            "brake_disc": 4,
+            "plaquette_de_frein_course": 4,
+            "etrier": 1,
+            "piston_de_frein": 4,
+            "boulon_kit": 2
+        },
+        "Amount": 1
+    },
+    "v8engine": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 16,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 130,
+        "Ingredients": {
+            "tete_de_moteur": 2,
+            "boulon_kit": 3,
+            "courroie": 1,
+            "bloc_motor_v8": 1,
+            "piston": 8,
+            "alternateur": 1,
+            "engine_computer": 1,
+            "batterie": 1
+        },
+        "Amount": 1
+    },
+    "lambov10": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 24,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 240,
+        "Ingredients": {
+            "tete_de_moteur": 2,
+            "boulon_kit": 3,
+            "bloc_motor_v10": 1,
+            "batterie": 1,
+            "piston": 10,
+            "alternateur": 1,
+            "engine_computer": 1,
+            "courroie": 1
+        },
+        "Amount": 1
+    },
+    "tete_de_moteur": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "carpiece",
+        "isGun": false,
+        "Time": 15,
+        "xp": 5,
+        "Ingredients": {
+            "iron_ingot": 20
+        },
+        "Amount": 1
+    },
+    "boulon_kit": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "carpiece",
+        "isGun": false,
+        "Time": 15,
+        "xp": 4,
+        "Ingredients": {
+            "tool_kit": 1,
+            "iron_bar": 3
+        },
+        "Amount": 1
+    },
+    "predatorv8": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 22,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 179,
+        "Ingredients": {
+            "tete_de_moteur": 2,
+            "boulon_kit": 3,
+            "courroie": 1,
+            "bloc_motor_v8": 1,
+            "piston": 8,
+            "alternateur": 1,
+            "engine_computer": 1,
+            "batterie": 1
+        },
+        "Amount": 1
+    },
+    "drift_tires": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "maint",
+        "isGun": false,
+        "Time": 35,
+        "xp": 8,
+        "Ingredients": {
+            "wheel_mags": 4,
+            "rubber": 12
+        },
+        "Amount": 1
+    },
+    "turbo_lvl_2": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 21,
+        "requireBlueprint": false,
+        "Category": "turbo",
+        "isGun": false,
+        "Time": 15,
+        "xp": 75,
+        "Ingredients": {
+            "computer_chip": 1,
+            "caisse_interieur": 1,
+            "turbine": 1,
+            "Roulement_en_cuivre": 2,
+            "boulon_kit": 2,
+            "caisse_exterieur": 1
+        },
+        "Amount": 1
+    },
+    "stock_transmition": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "transmission",
+        "isGun": false,
+        "Time": 25,
+        "xp": 5,
+        "Ingredients": {
+            "stock_oil": 1,
+            "iron_plate": 6,
+            "copper_plate": 4,
+            "seal": 2,
+            "gear": 2
+        },
+        "Amount": 1
+    },
+    "nos": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 34,
+        "requireBlueprint": false,
+        "Category": "turbo",
+        "isGun": false,
+        "Time": 15,
+        "xp": 500,
+        "Ingredients": {
+            "bonbonne_de_nos": 1,
+            "nos_pipeline": 2,
+            "nos_controle_panel": 1
+        },
+        "Amount": 1
+    },
+    "stock_suspension": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "maint",
+        "isGun": false,
+        "Time": 35,
+        "xp": 6,
+        "Ingredients": {
+            "iron_plate": 8,
+            "rubber": 8
+        },
+        "Amount": 1
+    },
+    "bloc_motor_v10": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 16,
+        "requireBlueprint": false,
+        "Category": "carpiece",
+        "isGun": false,
+        "Time": 15,
+        "xp": 160,
+        "Ingredients": {
+            "iron_ingot": 50
+        },
+        "Amount": 1
+    },
+    "security_lvl2": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "carpiece",
+        "isGun": false,
+        "Time": 15,
+        "xp": 4,
+        "Ingredients": {
+            "iron_plate": 3,
+            "alarm_chip": 1,
+            "iron_bar_re": 4
+        },
+        "Amount": 1
+    },
+    "bloc_motor_v12": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 24,
+        "requireBlueprint": false,
+        "Category": "carpiece",
+        "isGun": false,
+        "Time": 15,
+        "xp": 210,
+        "Ingredients": {
+            "iron_ingot": 60
+        },
+        "Amount": 1
+    },
+    "musv8": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 18,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 82,
+        "Ingredients": {
+            "tete_de_moteur": 2,
+            "boulon_kit": 3,
+            "courroie": 1,
+            "bloc_motor_v8": 1,
+            "piston": 8,
+            "alternateur": 1,
+            "engine_computer": 1,
+            "batterie": 1
+        },
+        "Amount": 1
+    },
+    "race_transmition": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 10,
+        "requireBlueprint": false,
+        "Category": "transmission",
+        "isGun": false,
+        "Time": 35,
+        "xp": 10,
+        "Ingredients": {
+            "seal": 4,
+            "gear": 4,
+            "stock_oil": 4,
+            "stock_transmition": 1
+        },
+        "Amount": 1
+    },
+    "turbo_lvl_4": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 32,
+        "requireBlueprint": false,
+        "Category": "turbo",
+        "isGun": false,
+        "Time": 15,
+        "xp": 400,
+        "Ingredients": {
+            "computer_chip": 1,
+            "caisse_interieur": 1,
+            "turbine": 2,
+            "Roulement_en_cuivre": 4,
+            "boulon_kit": 4,
+            "caisse_exterieur": 1
+        },
+        "Amount": 1
+    },
+    "turbo_lvl_3": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 27,
+        "requireBlueprint": false,
+        "Category": "turbo",
+        "isGun": false,
+        "Time": 15,
+        "xp": 299,
+        "Ingredients": {
+            "computer_chip": 1,
+            "caisse_interieur": 1,
+            "turbine": 2,
+            "Roulement_en_cuivre": 3,
+            "boulon_kit": 4,
+            "caisse_exterieur": 1
+        },
+        "Amount": 1
+    },
+    "turbo_lvl_1": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 15,
+        "requireBlueprint": false,
+        "Category": "turbo",
+        "isGun": false,
+        "Time": 15,
+        "xp": 47,
+        "Ingredients": {
+            "computer_chip": 1,
+            "caisse_interieur": 1,
+            "turbine": 1,
+            "Roulement_en_cuivre": 1,
+            "boulon_kit": 2,
+            "caisse_exterieur": 1
+        },
+        "Amount": 1
+    },
+    "race_transmition_fwd": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 10,
+        "requireBlueprint": false,
+        "Category": "transmission",
+        "isGun": false,
+        "Time": 35,
+        "xp": 6,
+        "Ingredients": {
+            "seal": 4,
+            "gear": 4,
+            "stock_oil": 2,
+            "stock_transmition": 1
+        },
+        "Amount": 1
+    },
+    "stock_brakes": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "maint",
+        "isGun": false,
+        "Time": 15,
+        "xp": 8,
+        "Ingredients": {
+            "boulon_kit": 2,
+            "brake_pads": 4,
+            "etrier": 1,
+            "piston_de_frein": 1,
+            "none_air_brake_disc": 4
+        },
+        "Amount": 1
+    },
+    "drift_suspension": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 12,
+        "requireBlueprint": false,
+        "Category": "maint",
+        "isGun": false,
+        "Time": 35,
+        "xp": 9,
+        "Ingredients": {
+            "iron_plate": 16,
+            "rubber": 12
+        },
+        "Amount": 1
+    },
+    "security_lvl1": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "carpiece",
+        "isGun": false,
+        "Time": 15,
+        "xp": 4,
+        "Ingredients": {
+            "iron_plate": 2,
+            "iron_bar": 2
+        },
+        "Amount": 1
+    },
+    "k20a": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 27,
+        "Ingredients": {
+            "tete_de_moteur": 1,
+            "boulon_kit": 3,
+            "courroie": 1,
+            "batterie": 1,
+            "piston": 4,
+            "bloc_motor_v4": 1,
+            "engine_computer": 1,
+            "alternateur": 1
+        },
+        "Amount": 1
+    },
+    "michelin_tires": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "maint",
+        "isGun": false,
+        "Time": 35,
+        "xp": 7,
+        "Ingredients": {
+            "wheel_mags": 4,
+            "rubber": 8
+        },
+        "Amount": 1
+    },
+    "rb26det": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 35,
+        "Ingredients": {
+            "tete_de_moteur": 1,
+            "boulon_kit": 3,
+            "courroie": 1,
+            "batterie": 1,
+            "bloc_motor_v6": 1,
+            "alternateur": 1,
+            "engine_computer": 1,
+            "piston": 6
+        },
+        "Amount": 1
+    },
+    "bloc_motor": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "carpiece",
+        "isGun": false,
+        "Time": 15,
+        "xp": 5,
+        "Ingredients": {
+            "iron_ingot": 20
+        },
+        "Amount": 1
+    },
+    "stock_tires": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "maint",
+        "isGun": false,
+        "Time": 35,
+        "xp": 6,
+        "Ingredients": {
+            "wheel_mags": 4,
+            "rubber": 4
+        },
+        "Amount": 1
+    },
+    "bloc_motor_v8": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 10,
+        "requireBlueprint": false,
+        "Category": "carpiece",
+        "isGun": false,
+        "Time": 15,
+        "xp": 45,
+        "Ingredients": {
+            "iron_ingot": 40
+        },
+        "Amount": 1
+    },
+    "m297zonda": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 25,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 199,
+        "Ingredients": {
+            "tete_de_moteur": 2,
+            "boulon_kit": 3,
+            "courroie": 1,
+            "batterie": 1,
+            "bloc_motor_v12": 1,
+            "alternateur": 1,
+            "engine_computer": 1,
+            "piston": 12
+        },
+        "Amount": 1
+    },
+    "shonen": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 21,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 91,
+        "Ingredients": {
+            "tete_de_moteur": 2,
+            "boulon_kit": 3,
+            "courroie": 1,
+            "bloc_motor_v8": 1,
+            "piston": 8,
+            "alternateur": 1,
+            "engine_computer": 1,
+            "batterie": 1
+        },
+        "Amount": 1
+    },
+    "gt3flat6": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 10,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 55,
+        "Ingredients": {
+            "tete_de_moteur": 2,
+            "boulon_kit": 3,
+            "courroie": 1,
+            "batterie": 1,
+            "bloc_motor_v6": 1,
+            "alternateur": 1,
+            "engine_computer": 1,
+            "piston": 6
+        },
+        "Amount": 1
+    },
+    "m158huayra": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 26,
+        "requireBlueprint": false,
+        "Category": "motor",
+        "isGun": false,
+        "Time": 30,
+        "xp": 250,
+        "Ingredients": {
+            "tete_de_moteur": 2,
+            "boulon_kit": 3,
+            "courroie": 1,
+            "batterie": 1,
+            "bloc_motor_v12": 1,
+            "alternateur": 1,
+            "engine_computer": 1,
+            "piston": 12
+        },
+        "Amount": 1
+    }
+}

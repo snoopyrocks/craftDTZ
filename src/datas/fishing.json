@@ -1,0 +1,658 @@
+{
+    "line04": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "bobine",
+        "isGun": false,
+        "Time": 10,
+        "xp": 3,
+        "Ingredients": {
+            "metal_wire": 3
+        },
+        "Amount": 1
+    },
+    "thunderreel": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "moulinet",
+        "isGun": false,
+        "Time": 10,
+        "xp": 4,
+        "Ingredients": {
+            "bad_thunderreel": 5,
+            "tape": 1,
+            "boulon_kit": 1
+        },
+        "Amount": 1
+    },
+    "line07": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "bobine",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "copper_wire": 3
+        },
+        "Amount": 5
+    },
+    "robust_rod": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 6,
+        "requireBlueprint": false,
+        "Category": "canne",
+        "isGun": false,
+        "Time": 20,
+        "xp": 4,
+        "Ingredients": {
+            "boulon_kit": 1,
+            "inter_rod": 1,
+            "iron_bar": 2
+        },
+        "Amount": 1
+    },
+    "moule_no1": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "trans",
+        "isGun": false,
+        "Time": 10,
+        "xp": 2,
+        "Ingredients": {
+            "frame_moule": 1,
+            "sand": 2
+        },
+        "Amount": 1
+    },
+    "moule_no3": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "trans",
+        "isGun": false,
+        "Time": 10,
+        "xp": 3,
+        "Ingredients": {
+            "frame_moule": 1,
+            "sand": 2
+        },
+        "Amount": 1
+    },
+    "moule_towhook": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "trans",
+        "isGun": false,
+        "Time": 10,
+        "xp": 10,
+        "Ingredients": {
+            "frame_moule": 1,
+            "sand": 2
+        },
+        "Amount": 1
+    },
+    "zillareel": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "moulinet",
+        "isGun": false,
+        "Time": 10,
+        "xp": 5,
+        "Ingredients": {
+            "bad_zillareel": 5,
+            "tape": 1,
+            "boulon_kit": 2
+        },
+        "Amount": 1
+    },
+    "cut_shark": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 6,
+        "requireBlueprint": false,
+        "Category": "fishing",
+        "isGun": false,
+        "Time": 8,
+        "xp": 4,
+        "Ingredients": {
+            "cooking_knife": 1,
+            "shark": 1
+        },
+        "Amount": 6
+    },
+    "advance_rod": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "canne",
+        "isGun": false,
+        "Time": 20,
+        "xp": 4,
+        "Ingredients": {
+            "iron_bar": 2,
+            "robust_rod": 1
+        },
+        "Amount": 1
+    },
+    "technoplankton": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "bait",
+        "isGun": false,
+        "Time": 10,
+        "xp": 8,
+        "Ingredients": {
+            "plankton": 1,
+            "bread": 1,
+            "cooking_knife": 1
+        },
+        "Amount": 3
+    },
+    "line08": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "bobine",
+        "isGun": false,
+        "Time": 10,
+        "xp": 7,
+        "Ingredients": {
+            "copper_wire_re": 2,
+            "latex": 1
+        },
+        "Amount": 1
+    },
+    "moule_no2": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "trans",
+        "isGun": false,
+        "Time": 10,
+        "xp": 2,
+        "Ingredients": {
+            "frame_moule": 1,
+            "sand": 2
+        },
+        "Amount": 1
+    },
+    "hugecutbait": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 6,
+        "requireBlueprint": false,
+        "Category": "bait",
+        "isGun": false,
+        "Time": 10,
+        "xp": 6,
+        "Ingredients": {
+            "cooking_knife": 1,
+            "cut_dolphin": 1
+        },
+        "Amount": 2
+    },
+    "linesnifferreel": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "moulinet",
+        "isGun": false,
+        "Time": 10,
+        "xp": 2,
+        "Ingredients": {
+            "bad_linesnifferreel": 3,
+            "tape": 1
+        },
+        "Amount": 1
+    },
+    "cut_tuna": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "fishing",
+        "isGun": false,
+        "Time": 8,
+        "xp": 3,
+        "Ingredients": {
+            "tuna": 1,
+            "cooking_knife": 1
+        },
+        "Amount": 4
+    },
+    "line11": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 14,
+        "requireBlueprint": false,
+        "Category": "bobine",
+        "isGun": false,
+        "Time": 10,
+        "xp": 13,
+        "Ingredients": {
+            "steel_wire_re": 3,
+            "latex": 1
+        },
+        "Amount": 1
+    },
+    "inter_rod": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "canne",
+        "isGun": false,
+        "Time": 15,
+        "xp": 3,
+        "Ingredients": {
+            "rudimentary_rod": 1,
+            "metal_wire": 1,
+            "rubber": 3
+        },
+        "Amount": 1
+    },
+    "wood_fishing_rod": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "canne",
+        "isGun": false,
+        "Time": 10,
+        "xp": 2,
+        "Ingredients": {
+            "metal_wire": 1,
+            "tape": 1,
+            "stick": 3
+        },
+        "Amount": 1
+    },
+    "line01": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "bobine",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "fil_tresser": 1
+        },
+        "Amount": 1
+    },
+    "line03": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "bobine",
+        "isGun": false,
+        "Time": 10,
+        "xp": 2,
+        "Ingredients": {
+            "metal_wire": 1
+        },
+        "Amount": 1
+    },
+    "brokeassreel": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "moulinet",
+        "isGun": false,
+        "Time": 10,
+        "xp": 2,
+        "Ingredients": {
+            "bad_brokeassreel": 2,
+            "tape": 1
+        },
+        "Amount": 1
+    },
+    "moule_no10": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "trans",
+        "isGun": false,
+        "Time": 10,
+        "xp": 8,
+        "Ingredients": {
+            "frame_moule": 1,
+            "sand": 2
+        },
+        "Amount": 1
+    },
+    "line05": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "bobine",
+        "isGun": false,
+        "Time": 10,
+        "xp": 3,
+        "Ingredients": {
+            "metal_wire_re": 2
+        },
+        "Amount": 1
+    },
+    "crabmeat": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "bait",
+        "isGun": false,
+        "Time": 10,
+        "xp": 3,
+        "Ingredients": {
+            "crab": 1,
+            "cooking_knife": 1
+        },
+        "Amount": 2
+    },
+    "rudimentary_rod": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "canne",
+        "isGun": false,
+        "Time": 15,
+        "xp": 2,
+        "Ingredients": {
+            "iron_plate": 2,
+            "wood_fishing_rod": 1
+        },
+        "Amount": 1
+    },
+    "cut_whaleShark": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "fishing",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "whaleShark": 1,
+            "cooking_knife": 1
+        },
+        "Amount": 10
+    },
+    "line06": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "bobine",
+        "isGun": false,
+        "Time": 10,
+        "xp": 4,
+        "Ingredients": {
+            "copper_wire": 1
+        },
+        "Amount": 1
+    },
+    "tunameat": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "bait",
+        "isGun": false,
+        "Time": 10,
+        "xp": 2,
+        "Ingredients": {
+            "cut_tuna": 1,
+            "cooking_knife": 1
+        },
+        "Amount": 3
+    },
+    "moule_no6": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "trans",
+        "isGun": false,
+        "Time": 10,
+        "xp": 5,
+        "Ingredients": {
+            "frame_moule": 1,
+            "sand": 2
+        },
+        "Amount": 1
+    },
+    "fishrusreel": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "moulinet",
+        "isGun": false,
+        "Time": 10,
+        "xp": 3,
+        "Ingredients": {
+            "boulon_kit": 1,
+            "bad_fishrusreel": 4,
+            "tape": 1
+        },
+        "Amount": 1
+    },
+    "turtlemeat": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "bait",
+        "isGun": false,
+        "Time": 10,
+        "xp": 4,
+        "Ingredients": {
+            "cooking_knife": 1,
+            "turtle": 1
+        },
+        "Amount": 3
+    },
+    "cut_whale": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "fishing",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "cooking_knife": 1,
+            "whale": 1
+        },
+        "Amount": 12
+    },
+    "line09": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 11,
+        "requireBlueprint": false,
+        "Category": "bobine",
+        "isGun": false,
+        "Time": 10,
+        "xp": 8,
+        "Ingredients": {
+            "steel_wire": 1,
+            "latex": 1
+        },
+        "Amount": 1
+    },
+    "rockbottomreel": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "moulinet",
+        "isGun": false,
+        "Time": 10,
+        "xp": 2,
+        "Ingredients": {
+            "boulon_kit": 1,
+            "tape": 1,
+            "bad_rockbottomreel": 3
+        },
+        "Amount": 1
+    },
+    "line10": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 12,
+        "requireBlueprint": false,
+        "Category": "bobine",
+        "isGun": false,
+        "Time": 10,
+        "xp": 9,
+        "Ingredients": {
+            "steel_wire": 3,
+            "latex": 1
+        },
+        "Amount": 1
+    },
+    "line02": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "bobine",
+        "isGun": false,
+        "Time": 10,
+        "xp": 2,
+        "Ingredients": {
+            "fil_tresser": 3
+        },
+        "Amount": 1
+    },
+    "extrem_rod": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 12,
+        "requireBlueprint": false,
+        "Category": "canne",
+        "isGun": false,
+        "Time": 20,
+        "xp": 4,
+        "Ingredients": {
+            "advance_rod": 1,
+            "steel_bar_re": 2
+        },
+        "Amount": 1
+    },
+    "cut_dolphin": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 6,
+        "requireBlueprint": false,
+        "Category": "fishing",
+        "isGun": false,
+        "Time": 8,
+        "xp": 3,
+        "Ingredients": {
+            "dolphin": 1,
+            "cooking_knife": 1
+        },
+        "Amount": 6
+    },
+    "fil_tresser": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "trans",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "cloth": 1
+        },
+        "Amount": 1
+    },
+    "cut_bread": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "bait",
+        "isGun": false,
+        "Time": 10,
+        "xp": 1,
+        "Ingredients": {
+            "cooking_knife": 1,
+            "bread": 1
+        },
+        "Amount": 4
+    }
+}

@@ -1,0 +1,862 @@
+{
+    "grilled_perch": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "perch": 1
+        },
+        "Amount": 1
+    },
+    "grilled_garfish": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "garfish": 1
+        },
+        "Amount": 1
+    },
+    "grilled_carpe": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "carpe": 1
+        },
+        "Amount": 1
+    },
+    "burnt_tuna": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "cut_tuna": 1,
+            "stick": 1
+        },
+        "Amount": 1
+    },
+    "grilled_turtle": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 10,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "turtle": 1
+        },
+        "Amount": 1
+    },
+    "grilled_meat": {
+        "SuccessRate": 75,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 1,
+        "requireBlueprint": false,
+        "Category": "food",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "pan": 1,
+            "meat": 1
+        },
+        "Amount": 1
+    },
+    "burnt_garfish": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "garfish": 1,
+            "stick": 1
+        },
+        "Amount": 1
+    },
+    "grilled_shark": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 11,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "cut_shark": 1
+        },
+        "Amount": 1
+    },
+    "burnt_shrimp": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stick": 1,
+            "shrimp": 1
+        },
+        "Amount": 1
+    },
+    "hot_ramen_noodles": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "food",
+        "isGun": false,
+        "Time": 5,
+        "xp": 1,
+        "Ingredients": {
+            "ramen_noodles": 1,
+            "water_bottle": 1
+        },
+        "Amount": 1
+    },
+    "cooked_mlion_steak": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "food",
+        "isGun": false,
+        "Time": 10,
+        "xp": 6,
+        "Ingredients": {
+            "pan": 1,
+            "mlion_steak": 1
+        },
+        "Amount": 1
+    },
+    "grilled_esturgeons": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 10,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "esturgeons": 1
+        },
+        "Amount": 1
+    },
+    "cooked_rabbit_tight": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "food",
+        "isGun": false,
+        "Time": 10,
+        "xp": 4,
+        "Ingredients": {
+            "pan": 1,
+            "rabbit_tight": 1
+        },
+        "Amount": 1
+    },
+    "cooked_boar_ribs": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "food",
+        "isGun": false,
+        "Time": 14,
+        "xp": 3,
+        "Ingredients": {
+            "boar_ribs": 1,
+            "pan": 1
+        },
+        "Amount": 1
+    },
+    "grilled_whale": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 11,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "cut_whale": 1
+        },
+        "Amount": 1
+    },
+    "deluxe_soup_veg": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "food",
+        "isGun": false,
+        "Time": 5,
+        "xp": 2,
+        "Ingredients": {
+            "bread": 1,
+            "cooking_knife": 1,
+            "veg_soup": 1
+        },
+        "Amount": 1
+    },
+    "grilled_pollock": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "pollock": 1
+        },
+        "Amount": 1
+    },
+    "grilled_northernpike": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "northernpike": 1
+        },
+        "Amount": 1
+    },
+    "burnt_crappie": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "crappie": 1,
+            "stick": 1
+        },
+        "Amount": 1
+    },
+    "grilled_westernSilveryMinnow": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "westernSilveryMinnow": 1
+        },
+        "Amount": 1
+    },
+    "burnt_esturgeons": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stick": 1,
+            "esturgeons": 1
+        },
+        "Amount": 1
+    },
+    "burnt_shark": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stick": 1,
+            "cut_shark": 1
+        },
+        "Amount": 1
+    },
+    "grilled_haddock": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 10,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "haddock": 1
+        },
+        "Amount": 1
+    },
+    "deluxe_soup_tomate": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "food",
+        "isGun": false,
+        "Time": 5,
+        "xp": 2,
+        "Ingredients": {
+            "tom_soup": 1,
+            "bread": 1,
+            "cooking_knife": 1
+        },
+        "Amount": 1
+    },
+    "bread": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "food",
+        "isGun": false,
+        "Time": 5,
+        "xp": 1,
+        "Ingredients": {
+            "farine": 1,
+            "levure": 1
+        },
+        "Amount": 1
+    },
+    "sandwich_thon": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "food",
+        "isGun": false,
+        "Time": 5,
+        "xp": 2,
+        "Ingredients": {
+            "bread": 1,
+            "cooking_knife": 1,
+            "tuna_cans": 1
+        },
+        "Amount": 1
+    },
+    "ramen_noodles_thon": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "food",
+        "isGun": false,
+        "Time": 5,
+        "xp": 2,
+        "Ingredients": {
+            "tuna_cans": 1,
+            "hot_ramen_noodles": 1
+        },
+        "Amount": 1
+    },
+    "grilled_whaleShark": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 11,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "cut_whaleShark": 1
+        },
+        "Amount": 1
+    },
+    "burnt_haddock": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stick": 1,
+            "haddock": 1
+        },
+        "Amount": 1
+    },
+    "burnt_trout": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 6,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "trout": 1,
+            "stick": 1
+        },
+        "Amount": 1
+    },
+    "grilled_dolphin": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 11,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "cut_dolphin": 1
+        },
+        "Amount": 1
+    },
+    "burnt_crab": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 3,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "crab": 1,
+            "stick": 1
+        },
+        "Amount": 1
+    },
+    "grilled_trout": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "trout": 1
+        },
+        "Amount": 1
+    },
+    "grilled_stripedbass": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stripedbass": 1
+        },
+        "Amount": 1
+    },
+    "burnt_dolphin": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stick": 1,
+            "cut_dolphin": 1
+        },
+        "Amount": 1
+    },
+    "burnt_meat": {
+        "SuccessRate": 50,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "food",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "meat": 1
+        },
+        "Amount": 1
+    },
+    "grilled_tuna": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 10,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "cut_tuna": 1
+        },
+        "Amount": 1
+    },
+    "grilled_salmon": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "salmon": 1
+        },
+        "Amount": 1
+    },
+    "grilled_rainbowtrout": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "rainbowtrout": 1
+        },
+        "Amount": 1
+    },
+    "grilled_shrimp": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 4,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "shrimp": 1
+        },
+        "Amount": 1
+    },
+    "grilled_crappie": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "crappie": 1
+        },
+        "Amount": 1
+    },
+    "burnt_rainbowtrout": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "rainbowtrout": 1,
+            "stick": 1
+        },
+        "Amount": 1
+    },
+    "burnt_turtle": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 8,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stick": 1,
+            "turtle": 1
+        },
+        "Amount": 1
+    },
+    "burnt_carpe": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stick": 1,
+            "carpe": 1
+        },
+        "Amount": 1
+    },
+    "burnt_stripedbass": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 6,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stripedbass": 1,
+            "stick": 1
+        },
+        "Amount": 1
+    },
+    "burnt_minnow": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 0,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stick": 1,
+            "minnow": 1
+        },
+        "Amount": 1
+    },
+    "grilled_crab": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "crab": 1
+        },
+        "Amount": 1
+    },
+    "burnt_northernpike": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 5,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "northernpike": 1,
+            "stick": 1
+        },
+        "Amount": 1
+    },
+    "burnt_westernSilveryMinnow": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "westernSilveryMinnow": 1,
+            "stick": 1
+        },
+        "Amount": 1
+    },
+    "burnt_whaleShark": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stick": 1,
+            "cut_whaleShark": 1
+        },
+        "Amount": 1
+    },
+    "burnt_pollock": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stick": 1,
+            "pollock": 1
+        },
+        "Amount": 1
+    },
+    "burnt_perch": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stick": 1,
+            "perch": 1
+        },
+        "Amount": 1
+    },
+    "burnt_whale": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 9,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stick": 1,
+            "cut_whale": 1
+        },
+        "Amount": 1
+    },
+    "grilled_minnow": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 2,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "minnow": 1
+        },
+        "Amount": 1
+    },
+    "burnt_salmon": {
+        "SuccessRate": 100,
+        "JobGrades": [],
+        "Jobs": [],
+        "Level": 7,
+        "requireBlueprint": false,
+        "Category": "fish",
+        "isGun": false,
+        "Time": 8,
+        "xp": 1,
+        "Ingredients": {
+            "stick": 1,
+            "salmon": 1
+        },
+        "Amount": 1
+    }
+}

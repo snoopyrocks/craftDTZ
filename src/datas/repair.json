@@ -1,0 +1,1012 @@
+{
+    "brakes": {
+        "stock_brakes": {
+            "repair": {
+                "brake_pads": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Plaquette de frein"
+                },
+                "none_air_brake_disc": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Disque de frein standard"
+                }
+            },
+            "power": 1,
+            "label": "Frein standard",
+            "durability": 50,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "race_brakes": {
+            "repair": {
+                "brake_disc": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Disque de frein troué"
+                },
+                "plaquette_de_frein_course": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Plaquette de frein course"
+                }
+            },
+            "power": 2.5,
+            "label": "Frein de course",
+            "durability": 40,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "frein_de_qualiter": {
+            "repair": {
+                "brake_disc": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Disque de frein troué"
+                },
+                "plaquette_de_frein_deluxe": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Plaquette de frein deluxe"
+                }
+            },
+            "power": 1.5,
+            "label": "Frein de qualiter",
+            "durability": 40,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        }
+    },
+    "nitro": {
+        "nos": {
+            "power": 50,
+            "label": "NOS",
+            "durability": 10,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        }
+    },
+    "engine": {
+        "gt3flat6": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "piston": {
+                    "amount": 3,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "gt3flat6",
+            "power": 15,
+            "label": "Moteur GT3",
+            "durability": 64,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "2jzengine": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "piston": {
+                    "amount": 3,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "toysupmk4",
+            "power": 19,
+            "label": "Moteur 2JZ",
+            "durability": 59,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "p60b40": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "reusable": true,
+                    "label": "Ceinture d'outils"
+                },
+                "piston": {
+                    "amount": 8,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "p60b40",
+            "power": 15,
+            "label": "Moteur P60B40",
+            "durability": 70,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "v8engine": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "piston": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "brabus850",
+            "power": 14,
+            "label": "Moteur V8",
+            "durability": 92,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "rb26det": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "reusable": true,
+                    "label": "Ceinture d'outils"
+                },
+                "piston": {
+                    "amount": 6,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "rb26det",
+            "power": 17,
+            "label": "Moteur RB26DET",
+            "durability": 62,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "m158huayra": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "piston": {
+                    "amount": 6,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "m158huayra",
+            "power": 23,
+            "label": "Moteur M158 Huayra",
+            "durability": 79,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "k20a": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "reusable": true,
+                    "label": "Ceinture d'outils"
+                },
+                "piston": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "k20a",
+            "power": 12,
+            "label": "Moteur K20A",
+            "durability": 72,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "m297zonda": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "reusable": true,
+                    "label": "Ceinture d'outils"
+                },
+                "piston": {
+                    "amount": 10,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "m297zonda",
+            "power": 20,
+            "label": "Moteur M297 Zonda",
+            "durability": 74,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "stock_engine": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "piston": {
+                    "amount": 2,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "DEFAULT",
+            "power": 0,
+            "label": "Moteur standard",
+            "durability": 93,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "rotary7": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "reusable": true,
+                    "label": "Ceinture d'outils"
+                },
+                "piston_rotatif": {
+                    "amount": 5,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "rotary7",
+            "power": 14,
+            "label": "Moteur Rotary7",
+            "durability": 65,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "lambov10": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "piston": {
+                    "amount": 5,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "lambov10",
+            "power": 18,
+            "label": "Moteur Lambo V10",
+            "durability": 81,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "musv8": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "reusable": true,
+                    "label": "Ceinture d'outils"
+                },
+                "piston": {
+                    "amount": 8,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "musv8",
+            "power": 16,
+            "label": "Moteur MusV8",
+            "durability": 62,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "shonen": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "reusable": true,
+                    "label": "Ceinture d'outils"
+                },
+                "piston": {
+                    "amount": 10,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "shonen",
+            "power": 17,
+            "label": "Moteur Shonen",
+            "durability": 66,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "predatorv8": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "reusable": true,
+                    "label": "Ceinture d'outils"
+                },
+                "piston": {
+                    "amount": 8,
+                    "reusable": false,
+                    "label": "Piston"
+                }
+            },
+            "sound": "predatorv8",
+            "power": 17.5,
+            "label": "Moteur Predator V8",
+            "durability": 60,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        }
+    },
+    "radio": {
+        "car_radio": {
+            "label": "Radio",
+            "durability": 80,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        }
+    },
+    "security": {
+        "security_lvl2": {
+            "label": "Alarme",
+            "durability": 80,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "security_lvl1": {
+            "label": "Serrure",
+            "durability": 80,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        }
+    },
+    "tires": {
+        "michelin_tires": {
+            "repair": {
+                "tire_patch": {
+                    "amount": 4,
+                    "reusable": false,
+                    "label": "Patch à pneux"
+                }
+            },
+            "traction": 1,
+            "lowspeedtraction": -2.7,
+            "label": "Pneux Michelin",
+            "durability": 25,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "stock_tires": {
+            "repair": {
+                "tire_patch": {
+                    "amount": 2,
+                    "reusable": false,
+                    "label": "Patch à pneux"
+                }
+            },
+            "traction": -0.04,
+            "lowspeedtraction": 0,
+            "label": "Pneux standard",
+            "durability": 50,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        }
+    },
+    "oil": {
+        "mobil1_oil": {
+            "label": "Huile Mobil1",
+            "durability": 30,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "oil_bad": {
+            "label": "Huile non traité",
+            "durability": 2,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "shell_oil": {
+            "label": "Huile Shell",
+            "durability": 20,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "stock_oil": {
+            "label": "Huile standard",
+            "durability": 15,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        }
+    },
+    "turbo": {
+        "turbo_lvl_4": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 2,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "turbine": {
+                    "amount": 1,
+                    "reusable": false,
+                    "label": "Turbine"
+                }
+            },
+            "power": 16,
+            "label": "Turbo Stage 4",
+            "durability": 40,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "turbo_lvl_1": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 1,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 1,
+                    "label": "Kit de boulon",
+                    "reusable": false
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "turbine": {
+                    "amount": 1,
+                    "reusable": false,
+                    "label": "Turbine"
+                }
+            },
+            "power": 5,
+            "label": "Turbo Standard",
+            "durability": 60,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "turbo_lvl_2": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 2,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 1,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "turbine": {
+                    "amount": 1,
+                    "reusable": false,
+                    "label": "Turbine"
+                }
+            },
+            "power": 7,
+            "label": "Turbo Stage 2",
+            "durability": 52,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "turbo_lvl_3": {
+            "repair": {
+                "iron_plate": {
+                    "amount": 3,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "boulon_kit": {
+                    "amount": 2,
+                    "reusable": false,
+                    "label": "Kit de boulon"
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "turbine": {
+                    "amount": 1,
+                    "reusable": false,
+                    "label": "Turbine"
+                }
+            },
+            "power": 12,
+            "label": "Turbo Stage 3",
+            "durability": 47,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        }
+    },
+    "transmition": {
+        "stock_manual_transmition": {
+            "shiftingtime": 0.9,
+            "repair": {
+                "seal": {
+                    "amount": 1,
+                    "label": "Seal",
+                    "reusable": false
+                },
+                "iron_plate": {
+                    "amount": 2,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "copper_plate": {
+                    "amount": 1,
+                    "label": "Plaque de cuivre",
+                    "reusable": false
+                },
+                "gear": {
+                    "amount": 1,
+                    "reusable": false,
+                    "label": "Gear"
+                }
+            },
+            "drivingwheels": "DEFAULT",
+            "manual": true,
+            "label": "Transmission standard manuel",
+            "durability": 70,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "race_transmition_fwd": {
+            "shiftingtime": 3,
+            "repair": {
+                "seal": {
+                    "amount": 2,
+                    "label": "Seal",
+                    "reusable": false
+                },
+                "iron_plate": {
+                    "amount": 3,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "copper_plate": {
+                    "amount": 1,
+                    "label": "Plaque de cuivre",
+                    "reusable": false
+                },
+                "gear": {
+                    "amount": 2,
+                    "reusable": false,
+                    "label": "Gear"
+                }
+            },
+            "drivingwheels": "FWD",
+            "manual": false,
+            "label": "Transmission fwd",
+            "durability": 45,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "stock_transmition": {
+            "shiftingtime": 0.9,
+            "repair": {
+                "seal": {
+                    "amount": 1,
+                    "label": "Seal",
+                    "reusable": false
+                },
+                "iron_plate": {
+                    "amount": 2,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "copper_plate": {
+                    "amount": 1,
+                    "label": "Plaque de cuivre",
+                    "reusable": false
+                },
+                "gear": {
+                    "amount": 1,
+                    "reusable": false,
+                    "label": "Gear"
+                }
+            },
+            "drivingwheels": "DEFAULT",
+            "manual": false,
+            "label": "Transmission standard",
+            "durability": 70,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "race_transmition": {
+            "shiftingtime": 3,
+            "repair": {
+                "seal": {
+                    "amount": 2,
+                    "label": "Seal",
+                    "reusable": false
+                },
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "copper_plate": {
+                    "amount": 1,
+                    "label": "Plaque de cuivre",
+                    "reusable": false
+                },
+                "gear": {
+                    "amount": 2,
+                    "reusable": false,
+                    "label": "Gear"
+                }
+            },
+            "drivingwheels": "RWD",
+            "manual": false,
+            "label": "Transmission de course",
+            "durability": 45,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "race_transmition_4wd": {
+            "shiftingtime": 3,
+            "repair": {
+                "seal": {
+                    "amount": 2,
+                    "label": "Seal",
+                    "reusable": false
+                },
+                "iron_plate": {
+                    "amount": 3,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "tool_kit": {
+                    "amount": 1,
+                    "label": "Ceinture d'outils",
+                    "reusable": true
+                },
+                "copper_plate": {
+                    "amount": 1,
+                    "label": "Plaque de cuivre",
+                    "reusable": false
+                },
+                "gear": {
+                    "amount": 2,
+                    "reusable": false,
+                    "label": "Gear"
+                }
+            },
+            "drivingwheels": "4WD",
+            "manual": false,
+            "label": "Transmission 4wd",
+            "durability": 45,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        }
+    },
+    "suspension": {
+        "drift_suspension": {
+            "height": -0.07,
+            "traction": -1.5,
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "rubber": {
+                    "amount": 6,
+                    "label": "Caoutchou",
+                    "reusable": false
+                }
+            },
+            "label": "Suspension de drift",
+            "durability": 40,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "race_suspension": {
+            "height": -0.04,
+            "traction": 1,
+            "repair": {
+                "iron_plate": {
+                    "amount": 4,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "rubber": {
+                    "amount": 6,
+                    "label": "Caoutchou",
+                    "reusable": false
+                }
+            },
+            "label": "Suspension de course",
+            "durability": 50,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        },
+        "stock_suspension": {
+            "height": 0,
+            "traction": 0,
+            "repair": {
+                "iron_plate": {
+                    "amount": 2,
+                    "label": "Plaque de métal",
+                    "reusable": false
+                },
+                "rubber": {
+                    "amount": 4,
+                    "label": "Caoutchou",
+                    "reusable": false
+                }
+            },
+            "label": "Suspension standard",
+            "durability": 70,
+            "usability": {
+                "exclusive": [],
+                "vehicletypes": []
+            }
+        }
+    }
+}
