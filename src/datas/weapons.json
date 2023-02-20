@@ -1,0 +1,126 @@
+{
+    "tubepickaxe": {
+        "SuccessRate": 100,
+        "Ingredients": {
+            "metal_pipe": 1,
+            "leather_coyote_bad": 1,
+            "cutting_blade": 1
+        },
+        "JobGrades": [],
+        "isGun": false,
+        "Amount": 1,
+        "xp": 9,
+        "Category": "weapon",
+        "Jobs": [],
+        "Time": 15,
+        "Level": 2,
+        "requireBlueprint": false
+    },
+    "tubeaxe": {
+        "SuccessRate": 100,
+        "Ingredients": {
+            "metal_pipe": 1,
+            "butcher_blade": 1
+        },
+        "JobGrades": [],
+        "isGun": false,
+        "Amount": 1,
+        "xp": 7,
+        "Category": "weapon",
+        "Jobs": [],
+        "Time": 15,
+        "Level": 1,
+        "requireBlueprint": false
+    },
+    "WEAPON_SKNIFE": {
+        "SuccessRate": 100,
+        "Ingredients": {
+            "metal_wire": 1,
+            "stone": 1,
+            "leather_rabbit_bad": 1,
+            "wood": 1
+        },
+        "JobGrades": [],
+        "isGun": false,
+        "Amount": 1,
+        "xp": 10,
+        "Category": "weapon",
+        "Jobs": [],
+        "Time": 15,
+        "Level": 0,
+        "requireBlueprint": false
+    },
+    "chainknife": {
+        "SuccessRate": 100,
+        "Ingredients": {
+            "tape": 1,
+            "bike_chain": 1,
+            "short_knife_blade": 1,
+            "gear": 1
+        },
+        "JobGrades": [],
+        "isGun": false,
+        "Amount": 1,
+        "xp": 13,
+        "Category": "weapon",
+        "Jobs": [],
+        "Time": 15,
+        "Level": 3,
+        "requireBlueprint": false
+    },
+    "handmadeaxe": {
+        "SuccessRate": 100,
+        "Ingredients": {
+            "boulon_kit": 1,
+            "bike_gear": 1,
+            "metal_wire": 2,
+            "wood": 1
+        },
+        "JobGrades": [],
+        "isGun": false,
+        "Amount": 1,
+        "xp": 6,
+        "Category": "weapon",
+        "Jobs": [],
+        "Time": 15,
+        "Level": 0,
+        "requireBlueprint": false
+    },
+    "WEAPON_STONE_HATCHET": {
+        "SuccessRate": 100,
+        "Ingredients": {
+            "metal_wire": 2,
+            "stone": 1,
+            "leather_mlion_bad": 2,
+            "wood": 1
+        },
+        "JobGrades": [],
+        "isGun": false,
+        "Amount": 1,
+        "xp": 10,
+        "Category": "weapon",
+        "Jobs": [],
+        "Time": 15,
+        "Level": 0,
+        "requireBlueprint": false
+    },
+    "apokatana": {
+        "SuccessRate": 100,
+        "Ingredients": {
+            "leather_boar_bad": 1,
+            "metal_wire": 1,
+            "katana_blade": 1,
+            "boulon_kit": 1,
+            "iron_bar": 1
+        },
+        "JobGrades": [],
+        "isGun": false,
+        "Amount": 1,
+        "xp": 10,
+        "Category": "weapon",
+        "Jobs": [],
+        "Time": 15,
+        "Level": 4,
+        "requireBlueprint": false
+    }
+}

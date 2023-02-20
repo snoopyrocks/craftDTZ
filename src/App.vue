@@ -2,12 +2,13 @@
 import Listing from './components/Listing.vue'
 
 const navs = {
-  buildings: "Buildings",
   mechanics: "Mécanique",
+  repair: "Réparation véhicule",
+  buildings: "Buildings",
+  forge: "Forge",
+  weapons: "Armes",
   fishing: "Pêche / Chasse",
   cooking: "Cuisine",
-  repair: "Réparation véhicule",
-  forge: "Forge",
 }
 export default {
   components: {

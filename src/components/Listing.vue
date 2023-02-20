@@ -89,6 +89,7 @@ import cooking from "./../datas/cooking.json"
 import repair from "./../datas/repair.json"
 import correspondance from "./../datas/correspondance.json"
 import forge from "./../datas/forge.json"
+import weapons from "./../datas/weapons.json"
 export default {
   props: {nav: String},
   data() {
@@ -102,7 +103,8 @@ export default {
         fishing,
         cooking,
         repair,
-        forge
+        forge,
+        weapons
       }
     }
   },
