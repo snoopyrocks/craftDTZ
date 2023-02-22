@@ -1,0 +1,21 @@
+{
+    "maint": "Maintenance",
+    "carpiece": "Assemblage",
+    "transmission": "Transmission",
+    "motor": "Moteur",
+    "turbo": "Turbo",
+    "brakes": "Freins",
+    "nitro": "Nitro",
+    "engine": "Moteur",
+    "radio": "Radio",
+    "security": "Sécurité",
+    "tires": "Pneus",
+    "oil": "Huiles",
+    "transmition": "Transmission",
+    "suspension": "Suspension",
+    "utility": "Utility",
+    "material": "Materiel",
+    "medical": "Medical",
+    "building": "Building",
+    "weapon": "Armes"
+}

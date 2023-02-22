@@ -17,7 +17,8 @@ export default {
   data(){
     return {
       navs,
-      nav: "buildings"
+      search: "",
+      nav: "mechanics"
     }
   },
 }
@@ -29,18 +30,21 @@ export default {
   <nav class="navbar navbar-expand-lg navbar-dark bg-black">
     <div class="container-fluid">
 
-      <div id="navbarNav">
+      <div id="navbarNav" class="w-100 d-flex justify-content-between">
         <ul class="navbar-nav">
           <li
               @click="nav = key"
               v-for="(navigation, key) in navs" :key="key" class="nav-item">
-            <a  class="nav-link" :class="{'active': nav === key}" href="#">{{ navigation }}</a>
+            <a  class="nav-link fw-bold" :class="{'active': nav === key}" href="#">{{ navigation.toUpperCase() }}</a>
           </li>
         </ul>
+        <div>
+          <input v-model="search" type="text" class="form-control" placeholder="Recherche"/>
+        </div>
       </div>
     </div>
 
   </nav>
-  <Listing :nav="nav" />
+  <Listing :nav="nav" :search="search"/>
 
 </template>
