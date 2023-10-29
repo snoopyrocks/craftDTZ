@@ -1,0 +1,915 @@
+{
+    "prop_box_wood01a": {
+        "Ingredients": {
+            "cutted_wood": 20
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 0,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_biggate_wood": {
+        "Ingredients": {
+            "cutted_wood": 75
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 10,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_worklight_04c": {
+        "Ingredients": {
+            "plastic": 10,
+            "pieceelectro": 2,
+            "metal": 25
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 7,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "charniere": {
+        "Ingredients": {
+            "metal": 10
+        },
+        "Experience": 2,
+        "Time": 5,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 0,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_sign_road_03d": {
+        "Ingredients": {
+            "metal": 20
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_fnclink_09d": {
+        "Ingredients": {
+            "fil_barbeler": 8,
+            "metal": 100,
+            "charniere": 4
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 6,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_wall_wood_roof": {
+        "Ingredients": {
+            "cutted_wood": 30
+        },
+        "Experience": 5,
+        "Time": 10,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 2,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_fnclink_04l": {
+        "Ingredients": {
+            "fil_barbeler": 8,
+            "metal": 60,
+            "charniere": 4
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 6,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "gr_prop_gr_hobo_stove_01": {
+        "Ingredients": {
+            "metal": 10,
+            "cutted_wood": 10
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 0,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_byard_rampold": {
+        "Ingredients": {
+            "cutted_wood": 30
+        },
+        "Experience": 5,
+        "Time": 10,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 2,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "xm_prop_x17_bag_med_01a": {
+        "Ingredients": {
+            "metal": 10,
+            "tissu": 40
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_fnclink_04m": {
+        "Ingredients": {
+            "fil_barbeler": 8,
+            "metal": 40,
+            "charniere": 4
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 6,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_windowway_wood": {
+        "Ingredients": {
+            "vis": 4,
+            "charniere": 2,
+            "cutted_wood": 30
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 6,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_biggateway_wood": {
+        "Ingredients": {
+            "cutted_wood": 100
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 10,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_hobo_seat_01": {
+        "Ingredients": {
+            "plastic": 10,
+            "tissu": 20
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "ex_office_swag_med4": {
+        "Ingredients": {
+            "plastic": 30
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_air_stair_02": {
+        "Ingredients": {
+            "metal": 100,
+            "wheel": 4
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 0,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_const_fence01a": {
+        "Ingredients": {
+            "cutted_wood": 30
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_worklight_02a": {
+        "Ingredients": {
+            "plastic": 10,
+            "pieceelectro": 2,
+            "metal": 15
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 7,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_chair_01a": {
+        "Ingredients": {
+            "metal": 50
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_devin_box_01": {
+        "Ingredients": {
+            "plastic": 40,
+            "vis": 6,
+            "charniere": 2,
+            "cutted_wood": 40
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 1,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_generator_01a": {
+        "Ingredients": {
+            "pieceelectro": 30,
+            "metal": 50,
+            "vis": 8
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 7,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_ceilingstairs_wood": {
+        "Ingredients": {
+            "vis": 8,
+            "charniere": 4,
+            "cutted_wood": 40
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 4,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "v_med_p_sofa": {
+        "Ingredients": {
+            "tissu": 20,
+            "cutted_wood": 20
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_letterbox_01": {
+        "Ingredients": {
+            "plastic": 6,
+            "metal": 20,
+            "cutted_wood": 8
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 1,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_display_unit_02": {
+        "Ingredients": {
+            "plastic": 20,
+            "metal": 70,
+            "cutted_wood": 40
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 10,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_cementmixer_02a": {
+        "Ingredients": {
+            "metal": 25
+        },
+        "Experience": 0,
+        "Time": 10,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 1,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_fnclink_04k": {
+        "Ingredients": {
+            "fil_barbeler": 8,
+            "metal": 40,
+            "charniere": 4
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 6,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_sign_gas_02": {
+        "Ingredients": {
+            "metal": 20,
+            "cutted_wood": 10
+        },
+        "Experience": 5,
+        "Time": 5,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 0,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_ceiling_wood": {
+        "Ingredients": {
+            "vis": 4,
+            "charniere": 2,
+            "cutted_wood": 30
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 2,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_pillar_wood": {
+        "Ingredients": {
+            "vis": 4,
+            "charniere": 4,
+            "cutted_wood": 20
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 2,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "bkr_prop_biker_campbed_01": {
+        "Ingredients": {
+            "plastic": 10,
+            "metal": 15,
+            "vis": 3
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 6,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "gr_prop_gr_gunlocker_01a": {
+        "Ingredients": {
+            "vis": 25,
+            "metal": 80,
+            "cutted_wood": 20
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 3,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "fil_barbeler": {
+        "Ingredients": {
+            "metal": 5
+        },
+        "Experience": 0,
+        "Time": 10,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 3,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_fnclink_09a": {
+        "Ingredients": {
+            "fil_barbeler": 8,
+            "metal": 80,
+            "charniere": 4
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 6,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_wall_wood": {
+        "Ingredients": {
+            "vis": 10,
+            "cutted_wood": 30
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 0,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_const_fence01b": {
+        "Ingredients": {
+            "cutted_wood": 30
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_doorway_wood": {
+        "Ingredients": {
+            "vis": 10,
+            "charniere": 4,
+            "cutted_wood": 35
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 0,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_window_wood": {
+        "Ingredients": {
+            "vis": 4,
+            "charniere": 2,
+            "cutted_wood": 20
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 6,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_base_wood": {
+        "Ingredients": {
+            "cutted_wood": 30
+        },
+        "Experience": 5,
+        "Time": 10,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 0,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_bigwall_wood": {
+        "Ingredients": {
+            "cutted_wood": 150
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 10,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_fnclink_09frame": {
+        "Ingredients": {
+            "fil_barbeler": 8,
+            "metal": 75,
+            "charniere": 4
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 6,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_fnclink_09crnr1": {
+        "Ingredients": {
+            "fil_barbeler": 8,
+            "metal": 60,
+            "charniere": 4
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 6,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_fnclink_09b": {
+        "Ingredients": {
+            "fil_barbeler": 8,
+            "metal": 60,
+            "charniere": 4
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 6,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_fnclink_04j": {
+        "Ingredients": {
+            "fil_barbeler": 8,
+            "metal": 40,
+            "charniere": 4
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 6,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_gate_wood": {
+        "Ingredients": {
+            "vis": 8,
+            "charniere": 4,
+            "cutted_wood": 40
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 4,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_cs_gunrack": {
+        "Ingredients": {
+            "vis": 6,
+            "cutted_wood": 8
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_box_guncase_02a": {
+        "Ingredients": {
+            "charniere": 3,
+            "metal": 5,
+            "vis": 4
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_box_guncase_01a": {
+        "Ingredients": {
+            "charniere": 3,
+            "metal": 5,
+            "vis": 4
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "plaque_metal": {
+        "Ingredients": {
+            "metal": 100
+        },
+        "Experience": 5,
+        "Time": 5,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 2,
+        "SuccessRate": 90,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_50s_jukebox": {
+        "Ingredients": {
+            "pile": 8,
+            "pieceelectro": 8,
+            "metal": 20,
+            "vis": 12
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "v_res_tre_sofa_mess_b": {
+        "Ingredients": {
+            "tissu": 20,
+            "cutted_wood": 20
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_gateway_wood": {
+        "Ingredients": {
+            "vis": 4,
+            "charniere": 2,
+            "cutted_wood": 20
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 4,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "prop_game_clock_02": {
+        "Ingredients": {
+            "pile": 2,
+            "pieceelectro": 2,
+            "metal": 5,
+            "vis": 3
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 5,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "model_door_wood": {
+        "Ingredients": {
+            "vis": 10,
+            "charniere": 4,
+            "cutted_wood": 25
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 0,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    },
+    "v_tre_sofa_mess_b_s": {
+        "Ingredients": {
+            "tissu": 20,
+            "cutted_wood": 20
+        },
+        "Experience": 5,
+        "Time": 15,
+        "Jobs": [],
+        "isGun": false,
+        "Level": 6,
+        "SuccessRate": 80,
+        "Category": "constru",
+        "Amount": 1,
+        "JobGrades": [],
+        "requireBlueprint": false
+    }
+}

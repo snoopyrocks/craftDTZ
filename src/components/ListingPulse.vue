@@ -11,7 +11,9 @@
             </li>
           </ul>
         </div>
+
       </div>
+
     </nav>
     <div class="content">
       <div class="list-group h-100 overflow-auto">
@@ -24,7 +26,7 @@
               <h5 class="mb-1">{{trad[item[0]]}}</h5>
               <div>
                 <span class="badge badge-pill bg-primary me-2">Level {{item[1].Level}}</span>
-                <span class="badge badge-pill bg-primary">{{item[1].xp}}xp</span>
+                <span class="badge badge-pill bg-primary">{{item[1].Experience}}xp</span>
               </div>
             </div>
             <div class="d-flex flex-row">
@@ -88,36 +90,37 @@
 </template>
 
 <script>
-import buildings from "./../datas/buildings.json"
-import mechanics from "./../datas/mechanics.json"
-import fishing from "./../datas/fishing.json"
-import cooking from "./../datas/cooking.json"
-import repair from "./../datas/repair.json"
-import correspondance from "./../datas/correspondance.json"
-import forge from "./../datas/forge.json"
-import weapons from "./../datas/weapons.json"
-import trad from "./../datas/trad.json"
+import buildings from "./../datasPulse/buildings.json"
+// import mechanics from "./../datas/mechanics.json"
+// import fishing from "./../datas/fishing.json"
+import cooking from "./../datasPulse/cooking.json"
+// import repair from "./../datas/repair.json"
+// import correspondance from "./../datas/correspondance.json"
+// import forge from "./../datas/forge.json"
+// import weapons from "./../datas/weapons.json"
+import trad from "./../datasPulse/trad.json"
 export default {
   props: {nav: String, search: String},
   data() {
     return {
-      trad: {...trad,...correspondance, },
+      trad: {...trad },
       selectedCategory: "utility",
       selectedItem: "",
       all: {
         buildings,
-        mechanics,
-        fishing,
+        // mechanics,
+        // fishing,
         cooking,
-        repair,
-        forge,
-        weapons
+        // repair,
+        // forge,
+        // weapons
       }
     }
   },
   computed: {
     categories(){
       const cat = this.all[this.nav]
+      console.log(cat);
       const sorted =  Object.entries(cat)
       .sort(([,a],[,b]) => a.Level-b.Level)
       // .reduce((r, [k, v]) => ({ ...r, [k]: v }), {});
