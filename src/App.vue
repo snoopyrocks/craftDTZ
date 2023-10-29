@@ -17,7 +17,7 @@ const navsPulse = {
   // repair: "Réparation véhicule",
   buildings: "Buildings",
   // forge: "Forge",
-  // weapons: "Armes",
+  weapons: "Armes",
   // fishing: "Pêche / Chasse",
   cooking: "Cuisine",
 }

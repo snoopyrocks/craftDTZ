@@ -1,0 +1,405 @@
+
+ {
+        "jumelles": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 8,
+            "Ingredients": {
+                "metal": 10,
+                "plastic": 5
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "weapon_poolcue": {
+            "SuccessRate": 100,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 0,
+            "Ingredients": {
+                "metal": 5,
+                "cutted_wood": 20
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "weapon_bat": {
+            "SuccessRate": 100,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 0,
+            "Ingredients": {
+                "metal": 5,
+                "cutted_wood": 20
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "guidebook": {
+            "SuccessRate": 80,
+            "Experience": 0,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 0,
+            "Ingredients": {
+                "tissu": 15,
+                "cutted_wood": 20
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "fishingrod2": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 5,
+            "Ingredients": {
+                "redpearl": 3,
+                "metal": 6,
+                "fishingrod1": 1
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "removeinfect2": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "ems",
+            "Jobs": [
+                "ambulance"
+            ],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 5,
+            "Ingredients": {
+                "pochonweed": 10,
+                "removeinfect": 2
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "rateau": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 1,
+            "Ingredients": {
+                "metal": 3,
+                "cutted_wood": 30
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "bmx": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 1,
+            "Ingredients": {
+                "broken_bmx": 1,
+                "wheel_bmx": 2,
+                "metal": 30
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "prop_bbq_3": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 3,
+            "Ingredients": {
+                "metal": 10,
+                "blocbeton": 20
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "lighter": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 1,
+            "Ingredients": {
+                "gasoline": 5,
+                "metal": 8,
+                "plastic": 10
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "fishingrod5": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 7,
+            "Ingredients": {
+                "bluepearl": 3,
+                "fishingrod4": 1,
+                "metal": 6
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "baril": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 15,
+            "Level": 3,
+            "Ingredients": {
+                "metal": 100,
+                "plastic": 10
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "weapon_stone_hatchet": {
+            "SuccessRate": 100,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 0,
+            "Ingredients": {
+                "metal": 5,
+                "cutted_wood": 10
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "gourdevide": {
+            "SuccessRate": 100,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 0,
+            "Ingredients": {
+                "metal": 4,
+                "plastic": 4
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "gps": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 10,
+            "Ingredients": {
+                "pieceelectro": 5,
+                "metal": 8,
+                "plastic": 5
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "medikit": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "ems",
+            "Jobs": [
+                "ambulance"
+            ],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 0,
+            "Ingredients": {
+                "tissu": 10
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "radio": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 3,
+            "Ingredients": {
+                "pieceelectro": 3,
+                "pile": 2,
+                "plastic": 6
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "fishingrod4": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 7,
+            "Ingredients": {
+                "whitepearl": 3,
+                "fishingrod3": 1,
+                "metal": 6
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "weapon_knife": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 0,
+            "Ingredients": {
+                "metal": 10,
+                "plastic": 4
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "fishingrod3": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 6,
+            "Ingredients": {
+                "fishingrod2": 1,
+                "metal": 6,
+                "greenpearl": 3
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "chiffon": {
+            "SuccessRate": 90,
+            "Experience": 5,
+            "Category": "mechanic",
+            "Jobs": [
+                "mechanic"
+            ],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 0,
+            "Ingredients": {
+                "tissu": 2
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "fixkit": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "mechanic",
+            "Jobs": [
+                "mechanic"
+            ],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 0,
+            "Ingredients": {
+                "pieceelectro": 10,
+                "metal": 40,
+                "plastic": 20
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "boombox": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 2,
+            "Ingredients": {
+                "vis": 6,
+                "pile": 10,
+                "pieceelectro": 20,
+                "metal": 30,
+                "plastic": 60
+            },
+            "isGun": false,
+            "Amount": 1
+        },
+        "fishingrod1": {
+            "SuccessRate": 80,
+            "Experience": 5,
+            "Category": "public",
+            "Jobs": [],
+            "JobGrades": [],
+            "requireBlueprint": false,
+            "Time": 5,
+            "Level": 4,
+            "Ingredients": {
+                "metal": 6,
+                "cutted_wood": 20
+            },
+            "isGun": false,
+            "Amount": 1
+        }
+    }

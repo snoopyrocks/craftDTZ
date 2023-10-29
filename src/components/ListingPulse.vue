@@ -97,7 +97,7 @@ import cooking from "./../datasPulse/cooking.json"
 // import repair from "./../datas/repair.json"
 // import correspondance from "./../datas/correspondance.json"
 // import forge from "./../datas/forge.json"
-// import weapons from "./../datas/weapons.json"
+import weapons from "./../datas/weapons.json"
 import trad from "./../datasPulse/trad.json"
 export default {
   props: {nav: String, search: String},
@@ -113,7 +113,7 @@ export default {
         cooking,
         // repair,
         // forge,
-        // weapons
+        weapons
       }
     }
   },
