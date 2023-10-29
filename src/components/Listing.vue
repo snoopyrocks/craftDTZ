@@ -11,9 +11,7 @@
             </li>
           </ul>
         </div>
-
       </div>
-
     </nav>
     <div class="content">
       <div class="list-group h-100 overflow-auto">
