@@ -1,1 +1,203 @@
-{}
+{
+        "meatmtlioncuit": {
+            "Amount": 1,
+            "isGun": false,
+            "Reward": [],
+            "Category": "viandes",
+            "JobGrades": [],
+            "Ingredients": {
+                "meatmtlion": 1
+            },
+            "Time": 5,
+            "requireBlueprint": false,
+            "Level": 0,
+            "Jobs": [],
+            "SuccessRate": 99
+        },
+        "meatporccuit": {
+            "Amount": 1,
+            "isGun": false,
+            "Reward": [],
+            "Category": "viandes",
+            "JobGrades": [],
+            "Ingredients": {
+                "meat": 1
+            },
+            "Time": 5,
+            "requireBlueprint": false,
+            "Level": 0,
+            "Jobs": [],
+            "SuccessRate": 99
+        },
+        "meatdeercuit": {
+            "Amount": 1,
+            "isGun": false,
+            "Reward": [],
+            "Category": "viandes",
+            "JobGrades": [],
+            "Ingredients": {
+                "meatdeer": 1
+            },
+            "Time": 5,
+            "requireBlueprint": false,
+            "Level": 0,
+            "Jobs": [],
+            "SuccessRate": 99
+        },
+        "rizcuit": {
+            "Amount": 1,
+            "isGun": false,
+            "Reward": [
+                [
+                    "gourdevide",
+                    1
+                ]
+            ],
+            "Category": "autres",
+            "JobGrades": [],
+            "Ingredients": {
+                "gourde": 1,
+                "paquetriz": 1
+            },
+            "Time": 5,
+            "requireBlueprint": false,
+            "Level": 0,
+            "Jobs": [],
+            "SuccessRate": 80
+        },
+        "meatratcuit": {
+            "Amount": 1,
+            "isGun": false,
+            "Reward": [],
+            "Category": "viandes",
+            "JobGrades": [],
+            "Ingredients": {
+                "meatrat": 1
+            },
+            "Time": 5,
+            "requireBlueprint": false,
+            "Level": 0,
+            "Jobs": [],
+            "SuccessRate": 99
+        },
+        "meatbirdcuit": {
+            "Amount": 1,
+            "isGun": false,
+            "Reward": [],
+            "Category": "viandes",
+            "JobGrades": [],
+            "Ingredients": {
+                "meatbird": 1
+            },
+            "Time": 5,
+            "requireBlueprint": false,
+            "Level": 0,
+            "Jobs": [],
+            "SuccessRate": 99
+        },
+        "meatcatcuit": {
+            "Amount": 1,
+            "isGun": false,
+            "Reward": [],
+            "Category": "viandes",
+            "JobGrades": [],
+            "Ingredients": {
+                "meatcat": 1
+            },
+            "Time": 5,
+            "requireBlueprint": false,
+            "Level": 0,
+            "Jobs": [],
+            "SuccessRate": 99
+        },
+        "meatcowcuit": {
+            "Amount": 1,
+            "isGun": false,
+            "Reward": [],
+            "Category": "viandes",
+            "JobGrades": [],
+            "Ingredients": {
+                "meatcow": 1
+            },
+            "Time": 5,
+            "requireBlueprint": false,
+            "Level": 0,
+            "Jobs": [],
+            "SuccessRate": 99
+        },
+        "meatdogcuit": {
+            "Amount": 1,
+            "isGun": false,
+            "Reward": [],
+            "Category": "viandes",
+            "JobGrades": [],
+            "Ingredients": {
+                "meatdog": 1
+            },
+            "Time": 5,
+            "requireBlueprint": false,
+            "Level": 0,
+            "Jobs": [],
+            "SuccessRate": 99
+        },
+        "fishcuit": {
+            "Amount": 1,
+            "isGun": false,
+            "Reward": [],
+            "Category": "fish",
+            "JobGrades": [],
+            "Ingredients": {
+                "fish": 1
+            },
+            "Time": 5,
+            "requireBlueprint": false,
+            "Level": 0,
+            "Jobs": [],
+            "SuccessRate": 99
+        },
+        "meatrabbitcuit": {
+            "Amount": 1,
+            "isGun": false,
+            "Reward": [],
+            "Category": "viandes",
+            "JobGrades": [],
+            "Ingredients": {
+                "meatrabbit": 1
+            },
+            "Time": 5,
+            "requireBlueprint": false,
+            "Level": 0,
+            "Jobs": [],
+            "SuccessRate": 99
+        },
+        "gourde": {
+            "Amount": 1,
+            "isGun": false,
+            "Reward": [],
+            "Category": "autres",
+            "JobGrades": [],
+            "Ingredients": {
+                "gourdenonpotable": 1
+            },
+            "Time": 5,
+            "requireBlueprint": false,
+            "Level": 0,
+            "Jobs": [],
+            "SuccessRate": 80
+        },
+        "cheese": {
+            "Amount": 1,
+            "isGun": false,
+            "Reward": [],
+            "Category": "autres",
+            "JobGrades": [],
+            "Ingredients": {
+                "lait": 3
+            },
+            "Time": 5,
+            "requireBlueprint": false,
+            "Level": 0,
+            "Jobs": [],
+            "SuccessRate": 80
+        }
+    }
